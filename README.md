@@ -1,5 +1,9 @@
 O presente repositório guarda alguns dos meus projetos. Segue uma descrição de cada um deles:
 
+mundo_whumpus.py - é o meu melhor projeto, trata-se de um jogo simples que funciona no terminal, as regras são apresentadas no próprio código. 
+
+fases - guarda alguns mapas para se jogar o "mundo de whumpus"
+
 1 temperatura.py - é uma simulação do universo primordial em que supomos que o comportamento dos neutrinos do muon e do tau tem a mesma temperatura.
 
 2 temperatura.py - é uma simulação do universo primordial em que supomos que o comportamento dos neutrinos do muon e do tau tem temperaturas diferentes.
@@ -13,4 +17,4 @@ Some classifiers in the adult database.ipynb - é uma análise da famosa base de
 duplamente_ligada.py - implementa listas duplamente ligadas em python.
 
 fracionario.py - implementa operações de fração em python, ou seja, o python não mais apresentará resultados em ponto flutuante, mas sim frações.
-	
+
